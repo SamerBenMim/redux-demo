@@ -1,0 +1,4 @@
+reducer take initstate+action & return state
+
+dispatch({type:"eee"}) // cree un action (objet)
+dispatch(actionCREATOR) action creator methode qui retourn eun objet action
